@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.title {
+  width: 100%;
+  padding: 12px;
+  background-color: #9acd32;
+  color: #ffffff;
+}
+
+div {
+  margin-bottom: 24px;
+}
+
+.subtitle {
+  margin: 12px;
+}
+
+div ul {
+  padding: 4px 24px;
+}
