@@ -18,6 +18,7 @@ body {
 }
 
 .content {
+  width: 800px;
   margin-bottom: 24px;
 }
 
@@ -31,10 +32,10 @@ div ol {
   padding: 4px 32px;
 }
 
+.breadcrumb,
 img,
 div p,
-h4,
-.breadcrumb {
+h4 {
   padding: 0 12px;
 }
 
