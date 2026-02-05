@@ -17,14 +17,32 @@ body {
   color: #ffffff;
 }
 
-div {
+.content {
   margin-bottom: 24px;
 }
 
-.subtitle {
+.subtitle,
+h2 {
   margin: 12px;
 }
 
-div ul {
-  padding: 4px 24px;
+div ul,
+div ol {
+  padding: 4px 32px;
+}
+
+img,
+div p,
+h4,
+.breadcrumb {
+  padding: 0 12px;
+}
+
+.breadcrumb {
+  margin-top: 12px;
+}
+
+li,
+h4 {
+  margin-bottom: 12px;
 }
